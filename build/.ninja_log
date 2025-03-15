@@ -35,3 +35,5 @@
 144	254	7636760796822172	bin/bootloader_can_bridge.exe	5bd15c7129bb790c
 12	138	7636760924760831	CMakeFiles/bootloader_can_bridge.dir/src/main.cpp.obj	c25d25c2f4489bf
 138	248	7636760925594735	bin/bootloader_can_bridge.exe	5bd15c7129bb790c
+20	656	7637572661733608	CMakeFiles/bootloader_can_bridge.dir/src/main.cpp.obj	c25d25c2f4489bf
+656	900	7637572663573322	bin/bootloader_can_bridge.exe	5bd15c7129bb790c

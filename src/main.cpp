@@ -193,19 +193,14 @@ Brg_StatusT cBrgExample::SendCanBootloaderStart(int moduleId)
 	}
 
 	Brg_CanTxMsgT canTxMsg;
-    uint8_t dataTx[8];
+    uint8_t dataTx[8] = {0};
 
-    canTxMsg.ID = 0x123;
+    canTxMsg.ID = 0x069;
     canTxMsg.IDE = CAN_ID_STANDARD;
     canTxMsg.RTR = CAN_DATA_FRAME;
     canTxMsg.DLC = 0;
 
-    for(int32_t i = 0; i < 7; i++)
-    {
-        dataTx[i] = 0xFF;
-    }
-
-    dataTx[7] = moduleId;
+    dataTx[0] = moduleId;
 
     if( brgStat == BRG_NO_ERR ) {
         printf("Starting GCAN Bootloader on target with module ID: %d\n", moduleId);
