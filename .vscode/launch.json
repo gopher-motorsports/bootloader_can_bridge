@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Executable",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/bin/bootloader_can_bridge.exe",
+            "args": ["123"],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "MIMode": "gdb",
+            "setupCommands": [{ "text": "-enable-pretty-printing", "description": "Enable GDB pretty printing", "ignoreFailures": true }]
+        }
+    ]
+}

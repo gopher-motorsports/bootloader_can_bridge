@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/, -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/bridge -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/common -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/error -g -std=gnu++1z -o CMakeFiles\\bootloader_can_bridge.dir\\src\\ErrLog.cpp.obj -c C:\\Users\\isaia\\Documents\\FSAE\\VSCode\\bootloader_can_bridge\\src\\ErrLog.cpp",
+  "file": "C:\\Users\\isaia\\Documents\\FSAE\\VSCode\\bootloader_can_bridge\\src\\ErrLog.cpp",
+  "output": "CMakeFiles\\bootloader_can_bridge.dir\\src\\ErrLog.cpp.obj"
+},
+{
+  "directory": "C:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/, -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/bridge -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/common -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/error -g -std=gnu++1z -o CMakeFiles\\bootloader_can_bridge.dir\\src\\bridge.cpp.obj -c C:\\Users\\isaia\\Documents\\FSAE\\VSCode\\bootloader_can_bridge\\src\\bridge.cpp",
+  "file": "C:\\Users\\isaia\\Documents\\FSAE\\VSCode\\bootloader_can_bridge\\src\\bridge.cpp",
+  "output": "CMakeFiles\\bootloader_can_bridge.dir\\src\\bridge.cpp.obj"
+},
+{
+  "directory": "C:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/, -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/bridge -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/common -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/error -g -std=gnu++1z -o CMakeFiles\\bootloader_can_bridge.dir\\src\\criticalsectionlock.cpp.obj -c C:\\Users\\isaia\\Documents\\FSAE\\VSCode\\bootloader_can_bridge\\src\\criticalsectionlock.cpp",
+  "file": "C:\\Users\\isaia\\Documents\\FSAE\\VSCode\\bootloader_can_bridge\\src\\criticalsectionlock.cpp",
+  "output": "CMakeFiles\\bootloader_can_bridge.dir\\src\\criticalsectionlock.cpp.obj"
+},
+{
+  "directory": "C:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/, -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/bridge -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/common -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/error -g -std=gnu++1z -o CMakeFiles\\bootloader_can_bridge.dir\\src\\main.cpp.obj -c C:\\Users\\isaia\\Documents\\FSAE\\VSCode\\bootloader_can_bridge\\src\\main.cpp",
+  "file": "C:\\Users\\isaia\\Documents\\FSAE\\VSCode\\bootloader_can_bridge\\src\\main.cpp",
+  "output": "CMakeFiles\\bootloader_can_bridge.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/, -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/bridge -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/common -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/error -g -std=gnu++1z -o CMakeFiles\\bootloader_can_bridge.dir\\src\\stlink_device.cpp.obj -c C:\\Users\\isaia\\Documents\\FSAE\\VSCode\\bootloader_can_bridge\\src\\stlink_device.cpp",
+  "file": "C:\\Users\\isaia\\Documents\\FSAE\\VSCode\\bootloader_can_bridge\\src\\stlink_device.cpp",
+  "output": "CMakeFiles\\bootloader_can_bridge.dir\\src\\stlink_device.cpp.obj"
+},
+{
+  "directory": "C:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/, -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/bridge -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/common -IC:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/./inc/error -g -std=gnu++1z -o CMakeFiles\\bootloader_can_bridge.dir\\src\\stlink_interface.cpp.obj -c C:\\Users\\isaia\\Documents\\FSAE\\VSCode\\bootloader_can_bridge\\src\\stlink_interface.cpp",
+  "file": "C:\\Users\\isaia\\Documents\\FSAE\\VSCode\\bootloader_can_bridge\\src\\stlink_interface.cpp",
+  "output": "CMakeFiles\\bootloader_can_bridge.dir\\src\\stlink_interface.cpp.obj"
+}
+]

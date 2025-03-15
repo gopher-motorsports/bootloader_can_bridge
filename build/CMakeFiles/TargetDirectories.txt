@@ -1,0 +1,3 @@
+C:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/build/CMakeFiles/bootloader_can_bridge.dir
+C:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/build/CMakeFiles/edit_cache.dir
+C:/Users/isaia/Documents/FSAE/VSCode/bootloader_can_bridge/build/CMakeFiles/rebuild_cache.dir
